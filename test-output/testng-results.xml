@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Exam" duration-ms="43701" started-at="2020-09-18T19:46:35 CDT" finished-at="2020-09-18T19:47:18 CDT">
+    <groups>
+    </groups>
+    <test name="TC_question1" duration-ms="43701" started-at="2020-09-18T19:46:35 CDT" finished-at="2020-09-18T19:47:18 CDT">
+      <class name="testCases.TestNGExam">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="setup" is-config="true" duration-ms="12883" started-at="2020-09-18T19:46:35 CDT" finished-at="2020-09-18T19:46:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="question1()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="question1" duration-ms="7282" started-at="2020-09-18T19:46:48 CDT" finished-at="2020-09-18T19:46:55 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="tearDown" is-config="true" duration-ms="1621" started-at="2020-09-18T19:46:56 CDT" finished-at="2020-09-18T19:46:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="setup" is-config="true" duration-ms="6311" started-at="2020-09-18T19:46:57 CDT" finished-at="2020-09-18T19:47:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="question2()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="question2" duration-ms="837" started-at="2020-09-18T19:47:03 CDT" finished-at="2020-09-18T19:47:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="tearDown" is-config="true" duration-ms="674" started-at="2020-09-18T19:47:04 CDT" finished-at="2020-09-18T19:47:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="setup" is-config="true" duration-ms="6120" started-at="2020-09-18T19:47:05 CDT" finished-at="2020-09-18T19:47:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="question3()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="question3" duration-ms="5680" started-at="2020-09-18T19:47:11 CDT" finished-at="2020-09-18T19:47:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- question3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestNGExam@33f88ab]" name="tearDown" is-config="true" duration-ms="1411" started-at="2020-09-18T19:47:17 CDT" finished-at="2020-09-18T19:47:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestNGExam -->
+    </test> <!-- TC_question1 -->
+  </suite> <!-- Exam -->
+</testng-results>
